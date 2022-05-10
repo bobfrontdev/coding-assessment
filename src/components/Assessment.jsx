@@ -44,6 +44,9 @@ const userAccount = {
 
 //4. CSS를 사용하여 스크린샷 파일에 주어진 UI를 빌드하세요.
 
+//5. https://jsonplaceholder.typicode.com/users
+// 주어진 API에서 데이터를 가져와서 이름, 이메일, 도시를 렌더링하세요.
+
 const Assessment = () => {
   return (
     <div>
