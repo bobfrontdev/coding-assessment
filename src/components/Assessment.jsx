@@ -1,10 +1,10 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 // https://github.com/bobfrontdev/coding-assessment
 
 //github에서 주어진 저장소를 복제하고 모든 문제를 해결한 후 pull 요청을 하십시오
 
-//1. 각각에 대한 반환 값을 기록하십시오.
+//  1. 각각에 대한 반환 값을 기록하십시오.
 
 // 0 == false ->  ?
 // 0 === false -> ?
